@@ -11,5 +11,5 @@
  ### Results :  We now have an understanding on analyzing file logs both in the terminal and in Splunk. The terminal is faster compared to Splunk but with splunk you're able to skip all the tedious commands.
 
 
-[1-3 Screenshots]
+
 ![Screenshot (41)](https://github.com/Darencama/Cybersecurity-Training-Lab-Exercises/assets/134806131/1fc1e4e4-8a73-4dfc-ae69-aa51d0ac7f0a)
