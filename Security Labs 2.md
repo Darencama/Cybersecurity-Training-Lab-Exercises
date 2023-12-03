@@ -8,7 +8,8 @@
 - We will utilize different commands in linux to interact with log file manually in the terminal
 -  Afterwards we will use Splunk to analyze network traffic and logs
 
- ### Results :  We now have an understanding on analyzing file logs both in the terminal and in Splunk. The terminal is faster compared to Splunk but with splunk you're able to skip all the tedious commands.
+ ### Results :  
+ We now have an understanding on analyzing file logs both in the terminal and in Splunk. The terminal is faster compared to Splunk but with splunk you're able to skip all the tedious commands.
 
 <p align="center">
  Read the content of the (191112.log): <br/>
