@@ -14,4 +14,5 @@
 First and foremost we will run a scan on the firewall for open ports. After we complete an intense scan. We will begin on using the metasploit XAMPP exploit. We will add the host into the armitage, then select the exploit and launch it. I will then find a route to the victims (LAN). The first victim will be exploited and we will then add another host and attack that host using a SMB attack.
 
 
-[1-3 Screenshots]
+<p align="center">
+Launch the utility: <br/>
