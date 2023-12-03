@@ -12,4 +12,3 @@
 
 
 
-![Screenshot (41)](https://github.com/Darencama/Cybersecurity-Training-Lab-Exercises/assets/134806131/1fc1e4e4-8a73-4dfc-ae69-aa51d0ac7f0a)
