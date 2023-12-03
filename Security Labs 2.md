@@ -2,7 +2,7 @@
 ## Title:  Log Analysis in Linux and Splunk
 
 ### Summary: In this exercise we will be utilizing commands in linux to search for linux logs. Afterwards we will utilize Splunk to analyze network traffic and logs.
-### Steps
+### Steps:
 - Launch Kali Linux terminal 
 - Open log file in terminal (cat ex191112.log)
 - We will utilize different commands in linux to interact with log file manually in the terminal
