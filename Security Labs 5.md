@@ -6,9 +6,11 @@ In this lab i will utilize file hashing tools to verify integrity. As well as mo
 
  ### Steps: 
  - Make sure you switch to the forensics directory
- - View file with hasing 
- - Connect separete (vm) to windows machine and later anaylze the ip addresses that connected
- - Analyze linux file and run ssh server on port
+ - View the file with the hashing information 
+ - Mount a partition
+ - Use Foremost to carve files
+ - Use the HEX editor from the terminal
 
 ### Results: 
-We will now know how to navigate through the event viewer in windows as well as utilizing commands such as (psloglist, and we get). We also analyzed log linux as well as navigated thorugh the apache server on linux. We also established ssh server service.
+We now know how to view files with hashing informations. We then also mounted a partition and used Foremost to carve files and finally we got utilize the HEX editor from the terminal.
+
