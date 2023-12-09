@@ -3,7 +3,8 @@
 
 ## Title: Exploiting a Vulnerable Web Application 
 
-### Summary: In this lab I will be demonstrating how to exploit a vulnerable web application. I will be utilizing an external kali attack virtual machine to exploit the web application. I will also be using a armitage which ties to metasploit to exploit a machine utilizing XAMPP WebDAV PHP Upload
+### Summary: 
+In this lab I will be demonstrating how to exploit a vulnerable web application. I will be utilizing an external kali attack virtual machine to exploit the web application. I will also be using a armitage which ties to metasploit to exploit a machine utilizing XAMPP WebDAV PHP Upload
 
 ### Steps:
 - Use nmap to scan a network.
@@ -15,4 +16,16 @@ First and foremost we will run a scan on the firewall for open ports. After we c
 
 
 <p align="center">
-Launch the utility: <br/>
+Run nmap scan in zenmap: <br/>
+
+  ![Screenshot (99)](https://github.com/Darencama/Cybersecurity-Training-Lab-Exercises/assets/134806131/924b257d-f70b-4641-8431-7543dc2fd328)
+
+<p align="center">
+Add host in armitage: <br/>
+  
+  ![Screenshot (101)](https://github.com/Darencama/Cybersecurity-Training-Lab-Exercises/assets/134806131/9d76986c-82fd-40a0-94bc-ea2039d5b3ab)
+
+<p align="center">
+Add both hosts and exploit them: <br/>
+  
+  ![Screenshot (102)](https://github.com/Darencama/Cybersecurity-Training-Lab-Exercises/assets/134806131/79f2d3cc-221a-46e2-b0ab-be0b3bc2ff52)
