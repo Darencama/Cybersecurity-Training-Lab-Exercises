@@ -2,7 +2,8 @@
 
 ## Title: Configuring Vulnerability scanning and analyzing outputs
 
-### Summary: In this lab I will be demonstrating how to utilize a vulnerability management scanner as well as create a user and implement that user into a group. Within the group i will also implement the right security policies.
+### Summary: 
+In this lab I will be demonstrating how to utilize a vulnerability management scanner as well as create a user and implement that user into a group. Within the group i will also implement the right security policies.
 
 
  ### Steps: 
