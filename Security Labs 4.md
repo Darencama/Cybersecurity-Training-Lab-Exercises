@@ -1,7 +1,8 @@
 
 ## Title: Log Analysis
 
-### Summary: In this lab i will be interacting with the event viewer in windows and with the apache server on linux as well as interacting with different commands that align with these actions.
+### Summary: 
+In this lab i will be interacting with the event viewer in windows and with the apache server on linux as well as interacting with different commands that align with these actions.
 
 
  ### Steps: 
